@@ -1,0 +1,8 @@
+1.Some restaurants share the same coordinates. Clicking on the coordinates of one restaurant may show another restaurant with the same coordinates in map/restaurant activity
+2.UI not built for dark mode.
+3. Current Location not shown when giving permission. Can go to listview to click on a restaurant coordinates or refresh the app for the new map data to show
+4. English and French language is supported.
+5. The search bar in main list only filters by single value - to filter bar multiple, click the filter tab
+6. user must input number of critical violation if they select item in less than or more than check box
+
+
